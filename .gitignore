@@ -33,3 +33,6 @@ pi-files/wpa_supplicant.conf
 lib/dc-metro-main*
 lib/pyWMATA-master*
 lib/2020-05-27-raspios-buster-lite-armhf*
+
+# .ipynb_checkpoints dir
+.ipynb_checkpoints/
